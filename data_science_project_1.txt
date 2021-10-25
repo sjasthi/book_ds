@@ -1,0 +1,41 @@
+Explorations in data science (Level 2 Project for Alex)
+=======================================================
+
+
+Please visit  https://www.gutenberg.org/ and download a book (in text format) that you like.
+
+And you will write a python program to answer these 10 questions.
+
+Your python program should display these 10 choices to the user.
+One the user selects a choice, your program produces the answer.
+
+
+You will be exploring many topics (basic python, conditions, methods, lists, sets, dictionaries, file reading) while doing this project.
+Please ensure that your program is well documented, and is thoroughly tested.
+
+[1] What are the top 10 most frequent words in the book?
+You should only list top 10 words.
+And these words should be alphabetically sorted.
+
+[2] How manys sentences are there in the book?
+
+[3] Provide a table of "sentence number" and the "count of words" in that sentence?
+
+[4] How many words there in Nth sentence?
+
+[5] What is the total number of words in the book?
+
+[6] How many unique words are there in the book?  
+
+[7] What is the average number of words per sentence in the book?
+
+[8] Can you produce another book with each word of the book reversed?
+Save that book as "reversed.book"
+
+[9] Are there any palindromes in the book?
+Ignore the punctuation marks and symbols while figuring out whether a word is a palindrome are not.
+
+[10] Given a word, list all the sentences in which the word is appearing?
+
+
+ 
